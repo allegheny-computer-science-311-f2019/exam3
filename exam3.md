@@ -1,6 +1,7 @@
 # CMPSC 311 Exam 3
 # Name:
 
+## Due by midnight on December 12th, 2019
 
 ##### Note: The exam is open notes (printed or electronic) but closed to Internet searches. You can access ROS and openai documentation, class repositories on GitHub, and the materials on the course website.
 
@@ -73,6 +74,7 @@ Reflecting on the course topics, readings and outreach activities, please answer
 (a) Identify one public problem in the field of autonomous robotics that you were exposed to in this course, describe the problem and why it exists, then propose a new solution or specify an existing solution to address it.
 
 (b) For the problem you have identified above, do social forces (see definition below) or institutions at the local/national/international level) affect it?
+
 [NOTE:] Societal Forces: Forces of privilege that are larger than an individual which dictate through internalized biases how we act and what we experience in our lives, such forces are examples of structural oppression and act in prevent social justice.
 
 (c) For a public problem, other than the one you identified in part (a), describe ethical issue(s) around it or justify the lack of ethical issues.
