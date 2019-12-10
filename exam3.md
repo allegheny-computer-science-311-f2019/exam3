@@ -27,7 +27,7 @@ Explain what the Publisher and Subscriber objects do in ROS. Give an example.
 
 In the following line of code:
 
-`rostopic pub /turtle1/cmd vel -r 10 geometry msgs/Twist `angular: z: 0.5``
+`rostopic pub /turtle1/cmd vel -r 10 geometry msgs/Twist 'angular: z: 0.5' `
 
 What is the function of the following:
 
