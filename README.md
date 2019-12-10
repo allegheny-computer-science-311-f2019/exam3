@@ -3,7 +3,8 @@
 ## Instructions
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this repository
-contains the questions for the third exam in CMPSC 311 Fall 2019.
+contains the questions for the third exam in CMPSC 311 Fall 2019. The exam is due by 
+midnight on December 12th, 2019.
 
 By submitting this exam students are acknowledging their adherence to the Honor Code.
 
