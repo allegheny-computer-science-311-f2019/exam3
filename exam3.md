@@ -43,12 +43,12 @@ What is the function of the following:
 
 ### Question 5 [10 points]
 
-What is a reinforcement learning? Describe a specific example of where and how a reinforcement learning can be used in multi-agent systems.
+What is a reinforcement learning? Describe a specific example of where and how a reinforcement learning can be used in multi-robot systems.
 
 
 
 ### Question 6 [10 points]
-Describe the environment from the openai's gym below. Include all relevant details for the situation represented in the image. Specify the state number.
+Describe the environment from the openai's gym below. Include all relevant details for the situation represented in the image. Specify the state number represented in the image.
 
 ![Gym](gym.png)
 
@@ -56,7 +56,7 @@ Describe the environment from the openai's gym below. Include all relevant detai
 
 ### Question 7 [15 points]
 
-Assuming the state represented in question 8,
+Assuming the state represented in question 6,
 
 (a) What is the reward in this state? Explain what the values in the reward table represent. 
 
